@@ -10,7 +10,7 @@ This work could help to revolutionize the field of Quantum machine learning and 
 
 # Familiar Quantum Algorithms-
 
-I have been reading about quantum computing on qiskit and pennylane websites.qiskit's textbook Learn Quantum Computation using Qiskit has introduced me to various quantum algorithms like Deutsch-Jozsa Algorithm,Simon's Algorithm,Shor's Algorithm,Grover's Algorithm and more.
+I have been reading about quantum computing on qiskit and pennylane websites. Qiskit's textbook Learn Quantum Computation using Qiskit has introduced me to various quantum algorithms like Deutsch-Jozsa Algorithm,Simon's Algorithm,Shor's Algorithm,Grover's Algorithm and more.
 I liked Shor's algorithm and how it could do factoring of integers in polynomial time when the best known classical algorithm needed superpolynomial time to factor the product of two primes.It uses the concept of quantum phase estimation on Unitary operator to find the period of a periodic function, which can be used to factor a number into its prime factors.Shor's Algorithm has found many uses in cryptographic systems like RSA.
 
 # Familiar Quantum Software-
