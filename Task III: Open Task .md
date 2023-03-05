@@ -26,6 +26,7 @@ I have used pennylane , qiskit and torchquantum the most in quantum libraries.Fo
 [Pennylane]:https://pennylane.ai/
 
 Google's Blog on [Suppressing quantum errors using by scaling code on logical qubit]
+
 [Suppressing quantum errors using by scaling code on logical qubit]: https://r.search.yahoo.com/_ylt=AwrPoa8kgwRkNocD4CC7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1678046116/RO=10/RU=https%3a%2f%2fai.googleblog.com%2f2021%2f08%2fdemonstrating-fundamentals-of-quantum.html/RK=2/RS=BE7zTRL2R9kxYNaFDw6axQalOcc-
 
 [Google’s improved quantum processor good enough for error correction]
