@@ -2,6 +2,8 @@
 
 Quantum Computing helps us to extend the set of physical laws computer act upon by accessing quantum aspects of physical world.One of the very important phenomenon which allows quantum computers to access many possibilites at
 once is superposition. However, one major obstacle in the development of quantum computing is the need for a scalable and fault-tolerant device capable of implementing quantum algorithms. Current quantum hardware is either small or noisy, making error correction a critical challenge.Quantum devices for useful algorithms require error correction, and architectures that can correct errors faster than they occur are called fault-tolerant.One of the things that had a major impact on quantum computing recently was Google's work Supressing the quantum errors by scaling code on logical qubit.
+
+
 When we group multiple physical qubits together to create a logical qubit, the result is often that the logical error rate of the group is worse than the error rate of a single physical qubit because every additional qubit that is added is another potential source of error.Google implemented a distance-3 error correction code in their Sycamore processor by grouping 17 qubits together to acheive logical error rate of 3.028%. On grouping
 49qubits using distance-5 code they got an logical error rate of 2.914%.This work demonstrates that with enough care, we can produce the logical qubits necessary for a large-scale error-corrected quantum computer.
 This work could help to revolutionize the field of Quantum machine learning and may help us solve complex problems that are beyond the reach of classical machine learning algorithms.
@@ -16,8 +18,16 @@ I have used pennylane , qiskit and torchquantum the most in quantum libraries.Fo
 
 # References-
 [Learn Quantum Computation using Qiskit]
+
 [Learn Quantum Computation using Qiskit]:https://qiskit.org/textbook/preface.html
+
 [Pennylane]
+
 [Pennylane]:https://pennylane.ai/
+
 Google's Blog on [Suppressing quantum errors using by scaling code on logical qubit]
 [Suppressing quantum errors using by scaling code on logical qubit]: https://r.search.yahoo.com/_ylt=AwrPoa8kgwRkNocD4CC7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1678046116/RO=10/RU=https%3a%2f%2fai.googleblog.com%2f2021%2f08%2fdemonstrating-fundamentals-of-quantum.html/RK=2/RS=BE7zTRL2R9kxYNaFDw6axQalOcc-
+
+[Google’s improved quantum processor good enough for error correction]
+
+[Google’s improved quantum processor good enough for error correction]: https://arstechnica.com/science/2023/02/google-shows-current-generation-qubits-good-enough-for-error-correction/
