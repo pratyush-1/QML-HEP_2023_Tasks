@@ -8,13 +8,13 @@ Click on the below links to access that particular task-
 
 1) [Task I: Quantum Computing Part ](https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/TASK__1_Quantum_Computing.ipynb)
 
-2) [Task II: Classical Graph Neural Network (GNN) ] (https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/task-ii-classical-graph-neural-network-gnn.ipynb)
+2) [Task II: Classical Graph Neural Network (GNN) ](https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/task-ii-classical-graph-neural-network-gnn.ipynb)
 
-3)[Task III: Open Task ] (https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/Task%20III:%20Open%20Task%20.md)
+3)[Task III: Open Task ](https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/Task%20III:%20Open%20Task%20.md)
 
-4)[Task VIII: Vision transformer/Quantum Vision Transformer] (https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/task-viii-vision-transformer-QVT.ipynb)
+4)[Task VIII: Vision transformer/Quantum Vision Transformer](https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/task-viii-vision-transformer-QVT.ipynb)
 
-5)[Proposed architectures and their detailed explanation] (https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/QVT_proposed_architectures.pdf)
+5)[Proposed architectures and their detailed explanation](https://github.com/pratyush-1/QML-HEP_2023_Tasks/blob/main/QVT_proposed_architectures.pdf)
 
 
 
