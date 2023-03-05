@@ -2,7 +2,7 @@
 
 # Tasks for Quantum transformer for High Energy Physics Analysis at the LHC
 
-The project description can be accessed from [here] and the corresponding tasks can be found [here].
+The project description can be accessed from [here] (#place-1) and the corresponding tasks can be found [here](#place-1).
 
 [here]:https://ml4sci.org/gsoc/2023/proposal_QMLHEP5.html
 
